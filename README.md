@@ -44,28 +44,10 @@ The dataset includes over 9,000 entries detailing Netflix's movies and TV shows,
 
 3. **Data Visualization**
 
-   * Created bar charts, line graphs, and heatmaps to illustrate findings.
+   * Created bar charts, hisrogram.
    * Visualized correlations and patterns within the data.
 
-4. **Recommendation System**
-
-   * Developed a basic content-based filtering model.
-   * Utilized TF-IDF vectorization on genres and descriptions.
-   * Calculated cosine similarity to recommend similar titles.
-
-## 📈 Key Findings
-
-* **Content Distribution:** Approximately 70% Movies and 30% TV Shows.
-* **Popular Genres:** Drama, International, and Documentary.
-* **Top Contributing Countries:** United States, India, United Kingdom.
-* **Peak Content Addition:** Notable increase in 2019.
-* **Common Ratings:** Predominantly TV-MA and TV-14.
 
 ## 📌 Conclusion
 
 This project demonstrates the application of data science techniques to real-world datasets, providing insights into Netflix's content strategy and user preferences. The recommendation system offers a foundational approach to personalized content suggestions.
-
----
-
-Feel free to customize this summary further to align with your project's specifics or to add any additional insights you've uncovered.
-
