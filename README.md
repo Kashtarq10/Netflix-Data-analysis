@@ -1,7 +1,3 @@
-# Netflix-Data-analysis
-Certainly! Here's a concise and informative summary tailored for your GitHub README file, encapsulating the key aspects of your Netflix Data Analysis project:
-
----
 
 # 📊 Netflix Data Analysis Project
 
